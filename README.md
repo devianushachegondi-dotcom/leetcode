@@ -18,4 +18,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devianushachegondi-dotcom/leetcode/tree/master/0001-two-sum) |
+| [1920-build-array-from-permutation](https://github.com/devianushachegondi-dotcom/leetcode/tree/master/1920-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/devianushachegondi-dotcom/leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
